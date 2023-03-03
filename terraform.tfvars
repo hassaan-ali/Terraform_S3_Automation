@@ -1,0 +1,5 @@
+bucket_name = "tf-bucket"
+filename_upload = "bundle.zip"
+filename_delete = "lambda_delete_function.zip"
+filename_check = "check_lingering_files.zip"
+aws_region = "us-east-2"
